@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Salih Yanikgonul, Launches Site"
-date: 2014-04-30
+date: 2019-10-19
 ---
 
 Powered by [Jekyll](http://jekyllrb.com) and used Markdown to author posts. 
