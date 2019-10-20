@@ -14,15 +14,15 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-a:link {
+a.publications:link {
 color: blue;
 text-decoration: underline;
 }
-a:visited {
+a.publications:visited {
 color: purple;
 text-decoration: underline;
 }
-a:hover {
+a.publications:hover {
 color: red;
 text-decoration: none;
 }
