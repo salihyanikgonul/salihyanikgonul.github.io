@@ -49,3 +49,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+ul.contacts li {
+    list-style: none;
+    font-size: 5
+}
