@@ -15,13 +15,16 @@ nav ul li, footer ul li {
 }
 
 a:link {
-color: #cc0000;
+color: blue;
+text-decoration: underline;
 }
 a:visited {
-color: #999999;
+color: purple;
+text-decoration: underline;
 }
 a:hover {
-color: #ff3300;
+color: red;
+text-decoration: none;
 }
 
 h1 {
