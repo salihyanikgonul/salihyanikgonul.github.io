@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 
 /* PUBLICATIONS LINK COLORS */
-a.publications:link {
+/*a.publications:link {
 color: blue;
 text-decoration: none;
 }
@@ -29,7 +29,7 @@ a.publications:hover {
 color: red;
 text-decoration: none;
 }
-
+*/
 /* MENU LINK COLORS */
 
 a.pagelink:link,
