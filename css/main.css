@@ -14,20 +14,28 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-a.publications:link {
+/* NON-MENU LINK COLORS */
+a:link {
 color: blue;
 text-decoration: none;
 }
 
-a.publications:visited {
+a:visited {
 color: purple;
 text-decoration: none;
 }
 
-a.publications:hover {
+a:hover {
 color: red;
 text-decoration: none;
 }
+
+/* OUR CUSTOM LINK COLORS */
+
+a.pagelink:link,
+a.pagelink:visited,
+a.pagelink:active { color: #3366FF; text-decoration: none; }
+a.pagelink:hover { color: #006699; text-decoration: underline; }
 
 h1 {
     font-size: 3em;
