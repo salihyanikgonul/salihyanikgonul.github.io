@@ -21,18 +21,18 @@ text-decoration: none;
 }
 
 a.cv:visited {
-color: purple;
+color: blue;
 text-decoration: none;
 }
 
 a.cv:hover {
-color: red;
+color: blue;
 text-decoration: none;
 }
 
 a.cv:hover {
-color: yellow;
-text-decoration: none;
+color: blue;
+text-decoration: underline;
 }
 /* MENU LINK COLORS */
 
