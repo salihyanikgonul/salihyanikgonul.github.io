@@ -41,6 +41,11 @@ a.pagelink:visited,
 a.pagelink:active { color: #3366FF; text-decoration: none; }
 a.pagelink:hover { color: #006699; text-decoration: underline; }
 
+a.socialmedia:link,
+a.socialmedia:visited,
+a.socialmedia:active { color: #3366FF; text-decoration: none; }
+a.socialmedia:hover { color: #006699; text-decoration: underline; }
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
