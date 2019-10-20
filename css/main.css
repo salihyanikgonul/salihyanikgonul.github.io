@@ -15,21 +15,25 @@ nav ul li, footer ul li {
 }
 
 /* PUBLICATIONS LINK COLORS */
-/*a.publications:link {
+.cv a:link {
 color: blue;
 text-decoration: none;
 }
 
-a.publications:visited {
+.cv a:visited {
 color: purple;
 text-decoration: none;
 }
 
-a.publications:hover {
+.cv a:hover {
 color: red;
 text-decoration: none;
 }
-*/
+
+.cv a:hover {
+color: yellow;
+text-decoration: none;
+}
 /* MENU LINK COLORS */
 
 a.pagelink:link,
