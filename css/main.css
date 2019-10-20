@@ -14,23 +14,23 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-/* NON-MENU LINK COLORS */
-a:link {
+/* PUBLICATIONS LINK COLORS */
+a.publications:link {
 color: blue;
 text-decoration: none;
 }
 
-a:visited {
+a.publications:visited {
 color: purple;
 text-decoration: none;
 }
 
-a:hover {
+a.publications:hover {
 color: red;
 text-decoration: none;
 }
 
-/* OUR CUSTOM LINK COLORS */
+/* MENU LINK COLORS */
 
 a.pagelink:link,
 a.pagelink:visited,
