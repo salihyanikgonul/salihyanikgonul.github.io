@@ -82,12 +82,12 @@ ul.about li {
 }
 
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
+  padding: 10px;
+  font-size: 40px;
+  width: 40px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 2px 2px;
   border-radius: 50%;
 }
 
@@ -96,12 +96,13 @@ ul.about li {
 }
 
 .ai {
-  padding: 20px;
-  font-size: 60px;
-  width: 50px;
+  padding: 10px;
+  font-size: 40px;
+  width: 40px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 2px 2px;
+  border-radius: 50%;
 }
 
 .ai:hover {
@@ -121,6 +122,14 @@ ul.about li {
 .fa-github {
   background: black;
   color: white;
+  padding: 20px;
+  font-size: 40px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 2px;
+  border-radius: 50%;
+}
 }
 
 .ai-google-scholar {
