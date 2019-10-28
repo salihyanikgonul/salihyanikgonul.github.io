@@ -82,7 +82,7 @@ ul.about li {
 }
 
 .fa {
-  font-size: 40px;
+  font-size: 1em;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
@@ -94,7 +94,7 @@ ul.about li {
 }
 
 .ai {
-  font-size: 40px;
+  font-size: 1em;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
@@ -117,7 +117,7 @@ ul.about li {
 .fa-github {
   background: white;
   color: black;
-  font-size: 40px;
+  font-size: 1em;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
@@ -126,7 +126,7 @@ ul.about li {
 .ai-google-scholar {
   background: white;
   color: black;
-  font-size: 40px;
+  font-size: 1em;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
