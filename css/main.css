@@ -112,11 +112,6 @@ ul.about li {
   color: white;
 }
 
-.fa-google {
-  background: black; /* #dd4b39 */
-  color: white;
-}
-
 .fa-linkedin {
   background: black; /* #007bb5*/
   color: white;
@@ -130,6 +125,12 @@ ul.about li {
 .ai-google-scholar {
   background: white;
   color: black;
+}
+
+/*
+.fa-google {
+  background: #dd4b39 
+  color: white;
 }
 
 .fa-facebook {
