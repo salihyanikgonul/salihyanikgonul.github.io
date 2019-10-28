@@ -82,9 +82,7 @@ ul.about li {
 }
 
 .fa {
-  padding: 10px;
   font-size: 40px;
-  width: 20px;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
@@ -96,13 +94,10 @@ ul.about li {
 }
 
 .ai {
-  padding: 10px;
   font-size: 40px;
-  width: 30px;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
-  border-radius: 50%;
 }
 
 .ai:hover {
@@ -110,38 +105,31 @@ ul.about li {
 }
 
 .fa-twitter {
-  background: black; /* #55ACEE */
-  color: white;
+  background: white; /* #55ACEE */
+  color: black;
 }
 
 .fa-linkedin {
-  background: black; /* #007bb5*/
-  color: white;
+  background: white; /* #007bb5*/
+  color: black;
 }
 
 .fa-github {
-  background: black;
-  color: white;
-  padding: 20px;
+  background: white;
+  color: black;
   font-size: 40px;
-  width: 30px;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
-  border-radius: 50%;
-}
 }
 
 .ai-google-scholar {
   background: white;
   color: black;
-  padding: 20px;
   font-size: 40px;
-  width: 30px;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
-  border-radius: 50%;
 }
 
 /*
